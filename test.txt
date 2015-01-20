@@ -1,2 +1,4 @@
 this is test file
 editing a file in developer repo
+
+new line added
